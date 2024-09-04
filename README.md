@@ -1,1 +1,1 @@
-# react-flow-automerge
+# react-flow-yjs
